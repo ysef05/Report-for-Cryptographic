@@ -1,0 +1,20 @@
+{
+  "preset1": {
+    "message": "@everyone King nuker https://discord.gg/nuking",
+    "new_server_name": "NET NETWORK ON TOP",
+    "change_notification": true,
+    "add_admin": true,
+    "channel_name": "Net-Network",
+    "text_channel_amount": 40,
+    "voice_channel_amount": 1
+  },
+  "preset2": {
+    "message": "@everyone discord.gg/nuking",
+    "new_server_name": "discord.gg/nuking",
+    "change_notification": false,
+    "add_admin": false,
+    "channel_name": "channel",
+    "text_channel_amount": 50,
+    "voice_channel_amount": 1
+  }
+}
