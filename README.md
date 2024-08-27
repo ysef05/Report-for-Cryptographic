@@ -1,2 +1,2 @@
 # Report-for-discordnuker
- ### PLEASE DO NOT DO ANYTHING UNTIL I FINISH THE FULL REPORT
+ #### This is simple report of a fake "discord server nuker" script kitty have copied the code but added a Remote Accsess Trojon (RAT) please read "Report-for-discordnuker.md"
